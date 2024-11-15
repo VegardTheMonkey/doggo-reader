@@ -9,10 +9,21 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@tensorflow/tfjs": "^4.21.0",
+    "@tensorflow/tfjs-react-native": "^1.5.0",
+    "buffer": "^6.0.3",
     "expo": "~51.0.28",
+    "expo-asset": "~10.0.10",
+    "expo-camera": "~15.0.16",
+    "expo-file-system": "~17.0.1",
+    "expo-gl": "~14.0.2",
+    "expo-gl-cpp": "^11.4.0",
+    "expo-image-manipulator": "~12.0.5",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
-    "react-native": "0.74.5"
+    "react-native": "0.74.5",
+    "react-native-fs": "^2.20.0",
+    "react-native-vision-camera": "^4.6.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
